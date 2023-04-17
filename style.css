@@ -1,0 +1,23 @@
+#arun1 {
+    font-size: 92px;
+    color: rgb(0, 0, 0);
+  }
+  
+  #arun1:hover {
+    color: rgb(255, 0, 102);
+  }
+  
+  
+  #arun2 {
+    font-size: 94px;
+    color: rgb(251, 255, 0);
+  }
+  .a{
+    margin: 70px;
+    margin-left: 290px;
+  }
+
+  .a span{
+    margin: 70px;
+    margin-left: 300px;
+  }
